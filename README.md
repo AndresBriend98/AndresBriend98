@@ -13,5 +13,5 @@
 - <h3>Instagram: https://www.instagram.com/andresbriend</h3>
 - <h3>Discord: andresbriend</h3>
 
-<h4>Feel free to reach out if you're interested in collaboration or just want to chat about web development!</h4>
+<h3>Feel free to reach out if you're interested in collaboration or just want to chat about web development!</h3>
 
