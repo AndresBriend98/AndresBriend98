@@ -7,10 +7,12 @@
 
 <h2 align="left">✨   Let's Connect! </h2>
 
-- <h3>GitHub: https://github.com/andresbriend98</h1>
-- <h3>GLinkedIn: https://www.linkedin.com/in/andres-briend</h1>
-- <h3>Email: andresbriend@gmail.com</h1>
-- <h3>Discord: andresbriend</h1>
+- <h3>GLinkedIn: https://www.linkedin.com/in/andres-briend</h3>
+- <h3>Email: andresbriend@gmail.com</h3>
+
+- <h3>Instagram: https://www.instagram.com/andresbriend</h3>
+
+- <h3>Discord: andresbriend</h3>
 
 Feel free to reach out if you're interested in collaboration or just want to chat about web development!
 
