@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Briend</h1>
-<img src="https://drive.google.com/file/d/1m8FLDE2_gkIMp88MD77NHbrX1vEAlCJ4/view?usp=drive_link"/>
+<img src="/Backgroud.png"/>
 <h3 align="center">I'm a passionate web developer specializing in front-end technologies. Currently, I work with JavaScript, HTML, CSS, and React to create responsive and user-friendly web applications. Below, you'll find an overview of my skills, projects, and contact information.</h3>
 
 <h3 align="left">Connect with me:</h3>
