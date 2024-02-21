@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrés Briend 👋</h1>
-<img src="/Backgroud.png" width="1000" height="300"/>
+<img src="/Backgroud.png"/>
 <h3 align="center">I'm a passionate web developer specializing in front-end technologies.</h3>
 
 <h2 align="left">✨   Languages and Tools:</h2>
