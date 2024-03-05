@@ -8,8 +8,8 @@
 
 <h2 align="left">✨   Contact me </h2>
 
-- <h3>GLinkedIn: https://www.linkedin.com/in/andres-briend</h3>
-- <h3>Email: andresbriend@gmail.com</h3>
+- <h3>LinkedIn: https://www.linkedin.com/in/andres-briend</h3>
+- <h3>Mail: andresbriend@gmail.com</h3>
 - <h3>Instagram: https://www.instagram.com/andresbriend</h3>
 - <h3>Discord: andresbriend</h3>
 
